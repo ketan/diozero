@@ -79,7 +79,7 @@
 
 	<modules>
 		<module>diozero-bom</module>
-		<module>diozero-archetype</module>
+<!--		<module>diozero-archetype</module>-->
 		<module>diozero-core</module>
 		<module>diozero-imu-devices</module>
 		<module>diozero-provider-mock</module>
@@ -92,7 +92,7 @@
 		<module>diozero-provider-remote</module>
 		<module>diozero-ws281x-java</module>
 		<module>diozero-sampleapps</module>
-		<module>distribution</module>
+<!--		<module>distribution</module>-->
 	</modules>
 
 	<properties>
